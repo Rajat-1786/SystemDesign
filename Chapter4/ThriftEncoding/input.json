@@ -1,0 +1,40 @@
+{
+    "company": {
+        "name": "Tech Innovators Inc.",
+        "location": {
+            "address": "123 Innovation Blvd",
+            "city": "Tech City",
+            "state": "CA",
+            "zip": "12345",
+            "country": "USA"
+        },
+        "departments": [
+            {
+                "name": "Engineering",
+                "head": "John Doe",
+                "employees": [
+                    {
+                        "name": "Jane Smith",
+                        "position": "Software Engineer",
+                        "email": "jane.smith@techinnovators.com",
+                        "phone": "123-456-7890"
+                    }
+                ]
+            }
+        ],
+        "products": [
+            {
+                "name": "Smart Gadget",
+                "type": "Electronic Device",
+                "price": 299.99
+            },
+            {
+                "name": "Tech Solution Suite",
+                "type": "Software",
+                "price": 499.99
+            }
+        ],
+        "revenue": 10000000,
+        "founded": "2005-08-15"
+    }
+}
